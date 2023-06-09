@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TheVenue/static/css/main.7f704a6d.css",
+    "main.js": "/TheVenue/static/js/main.1a84e43c.js",
+    "static/media/slide_onea.jpg": "/TheVenue/static/media/slide_onea.b3f7447744610561e198.jpg",
+    "static/media/slide_three3.jpg": "/TheVenue/static/media/slide_three3.0237e33a5e14304d0a7f.jpg",
+    "static/media/slide_two2.jpg": "/TheVenue/static/media/slide_two2.375174c04d1b08017565.jpg",
+    "static/media/slick.svg": "/TheVenue/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/TheVenue/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/TheVenue/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/TheVenue/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/TheVenue/index.html",
+    "main.7f704a6d.css.map": "/TheVenue/static/css/main.7f704a6d.css.map",
+    "main.1a84e43c.js.map": "/TheVenue/static/js/main.1a84e43c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f704a6d.css",
+    "static/js/main.1a84e43c.js"
+  ]
+}
